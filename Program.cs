@@ -12,8 +12,8 @@ public class Program
 {
     private static readonly HttpClient client = new();
     private static TokenResponse? currentToken;
-    private const string ClientId = "83a8ade2bf93454089f940b40ceba668";
-    private const string ClientSecret = "511cc2602b4c423a882a781fc5045819";
+    private const string ClientId = "client_ID_goes_here";
+    private const string ClientSecret = "client_secret_goes_here";
     private const string RedirectUri = "http://localhost:5000/callback";
     private const string AuthEndpoint = "https://accounts.spotify.com/authorize";
     private const string TokenEndpoint = "https://accounts.spotify.com/api/token";
