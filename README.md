@@ -25,6 +25,6 @@ ClientId, ClientSecret, TargetSongUri
 ```
 
 # Notes
-I've paired this utility down significantly, and it should run as expected with the basic VS build/run. If not, let me know.
+I've parred this utility down significantly, and it should run as expected with the basic VS build/run. If not, let me know.
 
 Token refreshing has been removed, since it was complicated. If you need it, let me know as well.
