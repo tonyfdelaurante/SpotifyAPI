@@ -1,0 +1,14 @@
+C:\Users\tony\source\repos\AuthClient\AuthClient\bin\Debug\net8.0\AuthClient.exe
+C:\Users\tony\source\repos\AuthClient\AuthClient\bin\Debug\net8.0\AuthClient.deps.json
+C:\Users\tony\source\repos\AuthClient\AuthClient\bin\Debug\net8.0\AuthClient.runtimeconfig.json
+C:\Users\tony\source\repos\AuthClient\AuthClient\bin\Debug\net8.0\AuthClient.dll
+C:\Users\tony\source\repos\AuthClient\AuthClient\bin\Debug\net8.0\AuthClient.pdb
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.AssemblyInfoInputs.cache
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.AssemblyInfo.cs
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.csproj.CoreCompileInputs.cache
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.dll
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\refint\AuthClient.dll
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.pdb
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\AuthClient.genruntimeconfig.cache
+C:\Users\tony\source\repos\AuthClient\AuthClient\obj\Debug\net8.0\ref\AuthClient.dll
